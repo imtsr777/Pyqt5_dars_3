@@ -1,0 +1,50 @@
+[
+    {
+        "id":"fheifhiefhei",
+        "foodName":"Sho'rva",
+        "price": 24000,
+        "category":"suyuq_ovqatlar"
+    },
+    {
+        "id": "fdehihri4bifgbi34",
+        "foodName":"Mastava",
+        "price": 22000,
+        "category":"suyuq_ovqatlar"
+    },
+    {
+        "id":"vreveveveve",
+        "foodName":"Osh",
+        "price": 28000,
+        "category":"quyuq_ovqatlar"
+    },
+    {
+        "id":"vscngngnt",
+        "foodName":"Qozon kabob",
+        "price": 38000,
+        "category":"quyuq_ovqatlar"
+    },
+    {
+        "id":"cnskcnkscnbsbcjs",
+        "foodName":"Moxito",
+        "price": 18000,
+        "category":"ichimliklar"
+    },
+    {
+        "id": "cnsjcnsjcbjs",
+        "foodName":"MilkShake",
+        "price": 23000,
+        "category":"ichimliklar"
+    },
+    {
+        "id":"cskcnskcnskcw",
+        "foodName":"Capucino",
+        "price": 15000,
+        "category":"ichimliklar"
+    },
+    {
+        "id":"fieifeifhieh",
+        "foodName":"Cola",
+        "price": 13000,
+        "category":"ichimliklar"
+    }
+]
